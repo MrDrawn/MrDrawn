@@ -22,7 +22,7 @@ Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero q
 <details>
   <summary>💬 Contatos</summary>
    </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
-   <string>SrMinister#2818</string>
+   <string>MrDrawn#8905</string>
 </details> 
 
 <br/>
