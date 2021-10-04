@@ -1,7 +1,6 @@
 ### Bem-vindo ao meu GitHub 🌐
 
-Meu nome é Felipe eu tenho 18 anos e sou desenvolvedor a <br>
-mais de 3 anos.
+Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero que goste!
 
 ### 📋 Linguagens:
    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
