@@ -21,11 +21,8 @@ Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero q
 <br/>
 <details>
   <summary>💬 Contatos</summary>
-   </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white"
-  <string>MrDrawn#8905</string>
-
-   </br> <img align="left" alt="Twitter" target="_blank" width="20px" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white"
-  <string>@feliperealcria</string> </br>
+   </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg%22/%3E"
+   <string>SrMinister#2818</string>
 </details> 
 
 <br/>
