@@ -33,5 +33,3 @@ mais de 3 anos.
 
 
 [![MrDrawn stats](https://github-readme-stats.vercel.app/api?username=MrDrawn&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/MrDrawn/)<!--
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
