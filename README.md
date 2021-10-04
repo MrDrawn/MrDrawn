@@ -13,10 +13,10 @@ Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero q
 ### 🚀 Ferramentas:
 
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
-  ![PHP Storm](https://img.shields.io/badge/PHP%20Storm-007396?style=for-the-badge&logo=phpstorm&logoColor=white)
-  ![Visual Studios Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-007396?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple) 
+  ![PHP Storm](https://img.shields.io/badge/PHP%20Storm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+  ![Visual Studios Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=white) 
 
 <br/>
 <details>
