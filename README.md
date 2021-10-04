@@ -1,8 +1,7 @@
-### Welcome to my github 🌐
+### Bem-vindo ao meu GitHub 🌐
 
-My name is Kaique Ricardo, I'm 16 years old and most of the time <br>
-I spend developing in Java <br>
-and I try to learn more every day. 
+Meu nome é Felipe eu tenho 18 anos e sou desenvolvedor a <br>
+mais de 3 anos.
 
 ### 📋 Linguagens:
    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
