@@ -6,7 +6,7 @@ Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero q
    ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=orange)
    ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=orange)
    ![AdonisJS](https://img.shields.io/badge/AdonisJS-000000?style=for-the-badge&logo=adonisjs&logoColor=orange)
-   ![JavaScript](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=javascript&logoColor=orange)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=orange)
    ![HTML5](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=orange)
    ![CSS](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=CSS%20Wizardry&logoColor=orange)
 
