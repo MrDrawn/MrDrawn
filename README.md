@@ -3,15 +3,19 @@
 Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero que goste!
 
 ### 📋 Programming Languages:
-   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=orange)
-   ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=orange)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=orange)
-   ![HTML5](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=orange)
-   ![CSS](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=CSS%20Wizardry&logoColor=orange)
+   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+   ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS%20Wizardry&logoColor=white)
    
  ### 🎆 Frameworks, Platforms and Libraries:
    ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=orange)
    ![AdonisJS](https://img.shields.io/badge/AdonisJS-000000?style=for-the-badge&logo=adonisjs&logoColor=orange)
+   ![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=orange)
+   ![BootStrap](https://img.shields.io/badge/BootStrap-000000?style=for-the-badge&logo=bootstrap&logoColor=orange)
+   ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=orange)
 
 ### 🚀 Ferramentas:
 
