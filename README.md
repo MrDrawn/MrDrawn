@@ -23,7 +23,6 @@ Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero q
   ![PHP Storm](https://img.shields.io/badge/PHP%20Storm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
   ![Visual Studios Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue)
-  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=white) 
 
 <br/>
 <details>
