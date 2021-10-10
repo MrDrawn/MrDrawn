@@ -17,7 +17,7 @@ Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero q
    ![BootStrap](https://img.shields.io/badge/BootStrap-000000?style=for-the-badge&logo=bootstrap&logoColor=orange)
    ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=orange)
 
-### 🚀 Ferramentas:
+### 📄 IDEs/Editors:
 
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![PHP Storm](https://img.shields.io/badge/PHP%20Storm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
