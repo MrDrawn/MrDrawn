@@ -1,6 +1,6 @@
-### Bem-vindo ao meu GitHub 🌐
+### Welcome to my GitHub 🌐
 
-Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero que goste!
+My name is Felipe, I'm 18 years old and I've been a developer for over 3 years, I hope you like it!
 
 ### 📋 Programming Languages:
    ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
@@ -26,7 +26,7 @@ Meu nome é Felipe, tenho 18 anos e sou desenvolvedor a mais de 3 anos, espero q
 
 <br/>
 <details>
-  <summary>💬 Contatos</summary>
+  <summary>💬 Contacts</summary>
    </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
    <string>MrDrawn#8905</string>
 </details> 
