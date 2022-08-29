@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 🌐
 
-My name is Felipe, I'm 18 years old and I've been a developer for over 3 years, I hope you like it!
+My name is Felipe, I'm 19 years old and I've been a developer for over 3 years, I hope you like it!
 
 ### 📋 Programming Languages:
    ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
