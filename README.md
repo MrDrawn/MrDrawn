@@ -2,6 +2,9 @@
 
 My name is Felipe, I'm 19 years old and I've been a developer for over 3 years, I hope you like it!
 
+> 🔭 I'm a full stack developer! <br/>
+> 💼 Founder of @Pay2Ply and @MoonkodeDev
+
 ### 📋 Programming Languages:
    ![JavaScript](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
    ![TypeScript](https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
@@ -9,17 +12,16 @@ My name is Felipe, I'm 19 years old and I've been a developer for over 3 years, 
    ![React](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
    
  ### 🎆 Frameworks, Platforms and Libraries:
-   ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=orange)
+   ![NextJS](https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
+   ![ExpressJS](https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642)
+   ![Sass](https://camo.githubusercontent.com/aa2d67d682b7d59cb0955695b192fc1390c9da34e90aa0c63079c411d01a9c66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465)
    ![AdonisJS](https://img.shields.io/badge/AdonisJS-000000?style=for-the-badge&logo=adonisjs&logoColor=orange)
-   ![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=orange)
-   ![BootStrap](https://img.shields.io/badge/BootStrap-000000?style=for-the-badge&logo=bootstrap&logoColor=orange)
-   ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=orange)
 
 ### 📄 IDEs/Editors:
 
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![IntelliJ IDEA](https://camo.githubusercontent.com/caaf97e1fcdaf75de59e5692b422823153d03187ad986665df9159a3e27b5e4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a5f494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465)
   ![PHP Storm](https://img.shields.io/badge/PHP%20Storm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-  ![Visual Studios Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
+  ![Visual Studios Code](https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue)
 
 <br/>
