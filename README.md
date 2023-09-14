@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 🌐
 
-My name is Felipe, I'm 19 years old and I've been a developer for over 3 years, I hope you like it!
+My name is Felipe, I'm 20 years old and I've been a developer for over 4 years, I hope you like it!
 
 > 🔭 I'm a full stack developer! <br/>
 > 💼 Founder of @Pay2Ply and @MoonkodeDev
@@ -40,5 +40,5 @@ My name is Felipe, I'm 19 years old and I've been a developer for over 3 years, 
 <details>
   <summary>💬 Contacts</summary>
    </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
-   <string>MrDrawn#8905</string>
+   <string>MrDrawn</string>
 </details> 
