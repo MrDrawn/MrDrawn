@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 🌐
 
-My name is Felipe, I'm 20 years old and I've been a developer for over 4 years, I hope you like it!
+My name is Felipe, I'm 21 years old and I've been a developer for over 6 years, I hope you like it!
 
 > 🔭 I'm a full stack developer! <br/>
 > 💼 Founder of @Pay2Ply and @MoonkodeDev
